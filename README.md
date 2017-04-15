@@ -18,12 +18,14 @@ Code for the paper:
     * glove.6B.zip: [http://nlp.stanford.edu/data/glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)
 
 ## Usage
+### Preprocessing
+    * python preprocess.py
 
-## Stanford AR
+### Stanford AR
     * train: bash train_SAR.sh
     * test: bash test_SAR.sh
 
-## GA
+### GA
     * train: bash train_GA.sh
     * test: bash test_GA.sh
 
@@ -38,7 +40,10 @@ Code for the paper:
 ```
 
 ## Thanks
-* Code is adapted from https://github.com/danqi/rc-cnn-dailymail and https://github.com/bdhingra/ga-reader
+* The code is adapted from https://github.com/danqi/rc-cnn-dailymail and https://github.com/bdhingra/ga-reader
+
+## Contact
+* Please contact Qizhe Xie (qzxie AT cs DOT cmu DOT edu) if you find bugs or missing info
 
 ## License
 MIT
