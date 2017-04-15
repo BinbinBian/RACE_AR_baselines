@@ -1,0 +1,16 @@
+to_label
+*resources*
+*obj*
+*.idea*
+*.pyc
+*.iml
+*output*
+*cluster*
+*cluster*
+dynet
+.idea
+results
+rc_total
+model*
+RACE*
+data*
