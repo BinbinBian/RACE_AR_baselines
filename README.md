@@ -11,8 +11,7 @@ Code for the paper:
 
 ## Datasets
 * RACE:
-    Downloadable from [http://www.cs.cmu.edu/~glai1/data/race/]
-    Please decompress it in the "data" directory
+    Please download from here(http://www.cs.cmu.edu/~glai1/data/race/) then decompress it in the "data" directory
 
 * Word embeddings:
     * glove.6B.zip: [http://nlp.stanford.edu/data/glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)
