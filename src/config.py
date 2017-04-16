@@ -1,4 +1,3 @@
-
 import theano
 import argparse
 

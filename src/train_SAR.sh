@@ -1,1 +1,1 @@
-THEANO_FLAGS="mode=FAST_RUN,device=gpu,floatX=float32" stdbuf -i0 -e0 -o0 python main.py -train_file ../data/data/train -dev_file ../data/data/dev -embedding_file ../data/embedding/glove.6B.100d.txt -optimizer sgd -dropout_rate 0.5 -model_file model_SAR.pkl.gz 
+THEANO_FLAGS="mode=FAST_RUN,device=gpu1,floatX=float32" stdbuf -i0 -e0 -o0 python main.py -train_file ../data/data/train -dev_file ../data/data/dev -embedding_file ../data/embedding/glove.6B.100d.txt -optimizer sgd -dropout_rate 0.5 -model_file model_SAR.pkl.gz 
