@@ -2,7 +2,7 @@
 
 Code for the paper:
 
-[RACE: Large-scale ReAding Comprehension Dataset From Examination]().
+[RACE: Large-scale ReAding Comprehension Dataset From Examination](https://arxiv.org/pdf/1704.04683.pdf).
 
 ## Dependencies
 * Python 2.7
@@ -30,12 +30,12 @@ Code for the paper:
 
 ## Reference
 ```
-    @inproceedings{,
-        title={},
-        author={},
-        booktitle={},
-        year={}
-    }
+@article{lai2017large,
+  title={RACE: Large-scale ReAding Comprehension Dataset From Examinations},
+  author={Guokun Lai, Qizhe Xie, Hanxiao Liu, Yiming Yang, Eduard Hovy},
+  journal={arXiv preprint arXiv:1704.04683},  
+  year={2017}
+}
 ```
 
 ## Thanks
