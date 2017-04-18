@@ -2,7 +2,7 @@
 
 Code for the paper:
 
-[RACE: Large-scale ReAding Comprehension Dataset From Examination](https://arxiv.org/pdf/1704.04683.pdf).
+[RACE: Large-scale ReAding Comprehension Dataset From Examination](https://arxiv.org/pdf/1704.04683.pdf). Guokun Lai*, Qizhe Xie*, Hanxiao Liu, Yiming Yang and Eduard Hovy.
 
 ## Dependencies
 * Python 2.7
