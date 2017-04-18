@@ -32,7 +32,7 @@ Code for the paper:
 ```
 @article{lai2017large,
   title={RACE: Large-scale ReAding Comprehension Dataset From Examinations},
-  author={Guokun Lai, Qizhe Xie, Hanxiao Liu, Yiming Yang, Eduard Hovy},
+  author={Lai, Guokun and Xie, Qizhe and Liu, Hanxiao and Yang, Yiming and Hovy, Eduard},
   journal={arXiv preprint arXiv:1704.04683},  
   year={2017}
 }
